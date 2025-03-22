@@ -1,0 +1,15 @@
+# Python/Django specific
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+*.sqlite3
+
+# Other common ignores
+*.log
+.DS_Store
