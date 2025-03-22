@@ -178,7 +178,7 @@ Common issues and solutions:
 
 ## License
 
-[MIT License](LICENSE)
+Interpulse License
 
 ## Author
 
@@ -186,4 +186,4 @@ Olayemi
 
 ## Support
 
-For support, email [your-email@example.com]
+For support, email [yemokanlawon@gmail.com]
