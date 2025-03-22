@@ -104,3 +104,4 @@ SECURE_SSL_REDIRECT = False
 CSRF_COOKIE_SECURE = True
 SESSION_COOKIE_SECURE = True
 CSRF_TRUSTED_ORIGINS = ['https://simplepaymentap-production.up.railway.app']
+APPEND_SLASH = False
