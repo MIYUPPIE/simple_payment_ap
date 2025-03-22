@@ -12,7 +12,6 @@ schema_view = get_schema_view(
         description="PayPal Payment Gateway Integration",
     ),
     public=True,
-    permission_classes=(permissions.AllowAny,),
 )
 
 urlpatterns = [
