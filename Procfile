@@ -1,0 +1,1 @@
+web: gunicorn paymentEndpoint.wsgi:application --workers 2
